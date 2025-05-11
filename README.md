@@ -9,6 +9,7 @@ Requirements:
 5) npm - 10.9.0
 
 Once the above mentioned requirements are fullfilled, kindly follow below steps to setup the project.
+
 Steps
 1) Execute the database/sql_script.sql to create the database and the required users table.
 Please be noted that if you wish to chose a different name for database, kindly change the database name in "Backend/db.php"
